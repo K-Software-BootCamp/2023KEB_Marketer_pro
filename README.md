@@ -1,15 +1,26 @@
 <div align="center">
     <img width="600" src="src/keb.png" alt="{Logo}">
     <br />
-    <img width="100" alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img width="100" src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    <img width="100" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <p> 레브웨어/라이브커머스와 인스타그램 데이터 활용/빅데이터/AI </p>
 </div>
 
-## Developed By
+ ## 🖥️ 프로젝트 소개
+인스타그램API를 활용한 
+<br>
 
-- 박재형,이유비,홍창범,홍승민
+## 🕰️ 개발 기간
+* 22.04.26일 - 22.05.24일
+
+### 🧑‍🤝‍🧑 맴버구성
+ - 팀장  : 박재형 - 데이터 수집, 데이터 분석, 모델링
+ - 팀원1 : 홍창범 - 데이터 수집, 데이터 분석, 모델링
+ - 팀원2 : 홍승민 - 회원가입
+ - 팀원3 : 이유비 - 메인페이지
+
+### ⚙️ 개발 환경
+- `Phython'
+- **Framework** : Django
+- **Database** : PostgreSQL
 
 ## WebPage WIP
 
